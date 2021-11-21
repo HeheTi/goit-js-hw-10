@@ -35,10 +35,9 @@ body {
   display: flex;
   align-items: center;
   gap: 15px;
-  margin-bottom: 15px;
 }
 
-.country-item:not(:last-child),
+.country-list-item:not(:last-child),
 .country-list-text:not(:last-child) {
   margin-bottom: 15px;
 }
